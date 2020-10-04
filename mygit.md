@@ -8,4 +8,12 @@
 
 2. git log 显示从最近到最远的提交日志, 如果嫌输出信息太多，看得眼花缭乱的，可以试试加上--pretty=oneline参数.
 
-3. 
+3. 常用命令
+* git init
+* git add "文件名"
+* git commit -m "版本说明"
+* git reset --hard "版本号"
+* git log
+* git reflog
+* git status
+* git checkout -- "文件名"
