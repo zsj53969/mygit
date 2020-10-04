@@ -6,4 +6,6 @@
 * git diff --cached：是查看index与repository的差别的。
 * git diff HEAD：是查看working tree和repository的差别的。其中：HEAD代表的是最近的一次commit的信息。
 
-2. 
+2. git log 显示从最近到最远的提交日志, 如果嫌输出信息太多，看得眼花缭乱的，可以试试加上--pretty=oneline参数.
+
+3. 
